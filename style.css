@@ -1,0 +1,55 @@
+.cont
+{
+	color: black;
+	width: 100%;
+	margin: auto;
+}
+.box
+{
+	background-color:#333333 ;
+	color: #ffffff;
+	padding: 10px;
+}
+.button
+{
+
+  color: #ffffff;
+}
+.branches
+{
+	border: 5px solid #ccc;
+	solid: 10px;
+	border-radiusmargin: 15px;
+}
+.div
+{
+	float: left;
+	width: 25%;
+	padding: 10px;
+	border: 4px  solid #ccc;
+	box-size: border-box;
+	background-color: black;
+	color: white;
+
+}
+.clr
+{
+clear: both;
+}
+.pbox
+{
+	height: 500px;
+	width: 400;
+	border: solid #000;
+	margin-top: 30px;
+	position: relative;
+} 
+
+.pbox h1
+{
+	position: absolute;
+	top: 420px;
+	left:85%;
+}
+
+
